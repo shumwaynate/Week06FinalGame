@@ -1,5 +1,6 @@
 # Bomb Lobber
 This is a two player bomb lobbing game. Each player starts with 3 lives and a paddle to reflect away the ball. Good Luck!
+Controls: wasd for left player, arroww keys for right player
 
 
 ## Getting Started
